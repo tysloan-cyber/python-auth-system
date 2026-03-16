@@ -21,6 +21,14 @@ The goal of this project was to understand how authentication systems work inter
 - Brute-force protection (login lockout)
 - Credential storage separation
 
+## Program Flow
+
+1. User selects an option from the menu
+2. Account creation validates password rules
+3. Password is hashed using SHA-256 with a random salt
+4. User credentials are stored in a JSON file
+5. Login attempts are limited to prevent brute-force attacks
+
 ## Program Interface
 
 Example of the command-line interface when running the authentication system.
