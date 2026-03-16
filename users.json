@@ -1,0 +1,14 @@
+{
+    "Claytonscott": {
+        "salt": "ae5bcde394c50e60afe69f1c155e6198",
+        "hash": "55f390bad9274722ac2c6b3cb1281a2aa4ad3c2189b031f9545ea8f7ba3b867f"
+    },
+    "Tyreesloan": {
+        "salt": "bd5ad5395abda36a54ac4e3151cc6111",
+        "hash": "55f390bad9274722ac2c6b3cb1281a2aa4ad3c2189b031f9545ea8f7ba3b867f"
+    },
+    "Londonsloan": {
+        "salt": "cc38a696273b708feffd9587f32aa003",
+        "hash": "bf00992ffa867b7cddc47e01512f58dedf1286226030365ac7502f278c4d16b8"
+    }
+}
