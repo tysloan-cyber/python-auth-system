@@ -21,7 +21,7 @@ The goal of this project was to understand how authentication systems work inter
 - Brute-force protection (login lockout)
 - Credential storage separation
 
-## Example Interface
+## Program Interface
 
 ![Authentication Menu](auth_menu.png)
 
